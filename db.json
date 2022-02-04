@@ -1,1 +1,14 @@
-
+{
+        "Aadhar":[ {
+        "sid": 1,
+        aadharNumber:12345
+    },
+    {
+        "sid": 2,
+         aadharNumber:24689
+    },
+    {
+        "sid": 3,
+         aadharNumber:98765
+    } ]
+}
